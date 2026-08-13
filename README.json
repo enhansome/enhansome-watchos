@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RadialChartImageGenerator",
+          "description": "A radial bar chart generator for apple watch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-11-01T01:36:11Z",
+            "owner": "hmaidasani",
+            "repo": "RadialChartImageGenerator",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KFWatchKitAnimations",
+          "description": "An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-11-12T04:35:55Z",
+            "owner": "kiavashfaisali",
+            "repo": "KFWatchKitAnimations",
+            "stars": 348
+          }
+        }
+      ],
+      "title": "Images Generator"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "WatchOS 2 New Features"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:56.095Z",
+    "original_repository": "yenchenlin/awesome-watchos",
+    "original_repository_sha": "b5f0ca68d3c78d9ca738e0f1e556a6110eafb5ba",
+    "enhanced_repository": "enhansome/enhansome-watchos",
+    "enhanced_repository_description": null,
+    "title": "Awesome Deprecated! This list will no longer be updated due to my focus shift. with stars"
+  }
+}
