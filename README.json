@@ -1,47 +1,370 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RadialChartImageGenerator",
+              "description": "A radial bar chart generator for apple watch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28942658,
+                "language": "JavaScript",
+                "last_commit": "2021-11-01T01:36:11Z",
+                "owner": "hmaidasani",
+                "repo": "RadialChartImageGenerator",
+                "stars": 443
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KFWatchKitAnimations",
+              "description": "An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31693155,
+                "language": "Swift",
+                "last_commit": "2020-11-12T04:35:55Z",
+                "owner": "kiavashfaisali",
+                "repo": "KFWatchKitAnimations",
+                "stars": 348
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Images Generator"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "RadialChartImageGenerator",
-          "description": "A radial bar chart generator for apple watch.",
+          "title": "SwiftHN",
+          "description": "A Hacker News reader written in Swift.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-11-01T01:36:11Z",
-            "owner": "hmaidasani",
-            "repo": "RadialChartImageGenerator",
-            "stars": 443
+            "id": 20535693,
+            "language": "Swift",
+            "last_commit": "2020-10-01T13:21:44Z",
+            "owner": "Dimillian",
+            "repo": "SwiftHN",
+            "stars": 1740
           }
         },
         {
           "node_type": "item",
-          "title": "KFWatchKitAnimations",
-          "description": "An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.",
+          "title": "WatchKit-Apps",
+          "description": "Tutorials app for WatchKit.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28107518,
             "language": "Swift",
-            "last_commit": "2020-11-12T04:35:55Z",
-            "owner": "kiavashfaisali",
-            "repo": "KFWatchKitAnimations",
-            "stars": 348
+            "last_commit": "2017-01-03T14:56:18Z",
+            "owner": "kostiakoval",
+            "repo": "WatchKit-Apps",
+            "stars": 1136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "watchOS-2-Sampler",
+          "description": "Code examples for new features of watchOS 2.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37230063,
+            "language": "Swift",
+            "last_commit": "2021-11-22T10:55:28Z",
+            "owner": "shu223",
+            "repo": "watchOS-2-Sampler",
+            "stars": 1075
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaiduFM-Swift",
+          "description": "A apple watch app for BaiduFM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34050491,
+            "language": "Swift",
+            "last_commit": "2026-08-11T11:06:17Z",
+            "owner": "belm",
+            "repo": "BaiduFM-Swift",
+            "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cherry",
+          "description": "A mini pomodoro timer app designed for the  Watch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31292754,
+            "language": "Swift",
+            "last_commit": "2015-06-11T01:11:44Z",
+            "owner": "kenshin03",
+            "repo": "Cherry",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WWDC",
+          "description": "An open sourcing WWDC hit parties app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20570686,
+            "language": "Swift",
+            "last_commit": "2019-06-04T20:29:21Z",
+            "owner": "genadyo",
+            "repo": "WWDC",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "done-swift",
+          "description": "A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33042473,
+            "language": "Objective-C",
+            "last_commit": "2017-04-18T05:10:25Z",
+            "owner": "FancyPixel",
+            "repo": "done-swift",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WatchPics",
+          "description": "Instagram for the Apple Watch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29060243,
+            "language": "Objective-C",
+            "last_commit": "2021-01-24T11:09:09Z",
+            "owner": "D-32",
+            "repo": "WatchPics",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WatchNotes",
+          "description": "An apple watch app to display notes on your wrist.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27108551,
+            "language": "Swift",
+            "last_commit": "2015-10-29T22:22:13Z",
+            "owner": "azamsharp",
+            "repo": "WatchNotes",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnTime",
+          "description": "An apple watch app to access the SBB timetable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28695198,
+            "language": "Objective-C",
+            "last_commit": "2015-10-04T00:02:34Z",
+            "owner": "D-32",
+            "repo": "OnTime",
+            "stars": 46
           }
         }
       ],
-      "title": "Images Generator"
+      "title": "Sample Apps"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "WatchOS 2 New Features"
+      "description": "Other amazingly awesome lists can be found in the",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Source apps",
+          "description": "list of open source ios apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29887499,
+            "language": null,
+            "last_commit": "2026-08-18T20:37:17Z",
+            "owner": "dkhamsing",
+            "repo": "open-source-ios-apps",
+            "stars": 51752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-awesomeness",
+          "description": "list.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21600440,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ios-ui",
+          "description": "A curated list of awesome iOS UI/UX libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33538019,
+            "language": null,
+            "last_commit": "2018-03-08T08:57:40Z",
+            "owner": "cjwirth",
+            "repo": "awesome-ios-ui",
+            "stars": 11217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ios-animation",
+          "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35487739,
+            "language": null,
+            "last_commit": "2025-10-28T05:58:10Z",
+            "owner": "v5tech",
+            "repo": "awesome-ios-animation",
+            "stars": 5456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ios-chart",
+          "description": "A curated list of awesome iOS chart libraries, including Objective-C and Swift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35487373,
+            "language": null,
+            "last_commit": "2025-10-28T06:00:06Z",
+            "owner": "v5tech",
+            "repo": "awesome-ios-chart",
+            "stars": 1516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-gists",
+          "description": "A list of amazing gists (iOS section).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35503403,
+            "language": null,
+            "last_commit": "2025-06-24T13:38:45Z",
+            "owner": "vsouza",
+            "repo": "awesome-gists",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iOS Learning Resources",
+          "description": "Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34953438,
+            "language": null,
+            "last_commit": "2022-08-28T09:30:47Z",
+            "owner": "sanketfirodiya",
+            "repo": "iOS-learning-resources",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome watchkit apps",
+          "description": "curated list of sample watchkit apps and tutorials.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32753399,
+            "language": null,
+            "last_commit": "2015-08-16T01:05:29Z",
+            "owner": "sanketfirodiya",
+            "repo": "sample-watchkit-apps",
+            "stars": 248
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Awesome-swift",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@matteocrippa",
+              "description": "A collaborative list of awesome swift resources.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21696302,
+                "language": "Ruby",
+                "last_commit": "2026-08-03T13:15:16Z",
+                "owner": "matteocrippa",
+                "repo": "awesome-swift",
+                "stars": 26212
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "@Wolg",
+              "description": "A curated list of awesome Swift frameworks, libraries and software.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21772062,
+                "language": null,
+                "last_commit": "2026-04-12T14:34:57Z",
+                "owner": "Wolg",
+                "repo": "awesome-swift",
+                "stars": 5876
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Other Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:52:56.186Z",
+    "last_updated": "2026-08-19T08:54:16.694Z",
     "original_repository": "yenchenlin/awesome-watchos",
     "original_repository_sha": "b5f0ca68d3c78d9ca738e0f1e556a6110eafb5ba",
     "enhanced_repository": "enhansome/enhansome-watchos",
