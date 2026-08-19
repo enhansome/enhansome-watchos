@@ -214,7 +214,7 @@
             "last_commit": "2026-08-18T20:37:17Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51752
+            "stars": 51757
           }
         },
         {
@@ -364,8 +364,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:54:16.694Z",
+    "last_updated": "2026-08-19T12:58:24.530Z",
     "original_repository": "yenchenlin/awesome-watchos",
+    "original_repository_id": 40349109,
     "original_repository_sha": "b5f0ca68d3c78d9ca738e0f1e556a6110eafb5ba",
     "enhanced_repository": "enhansome/enhansome-watchos",
     "enhanced_repository_description": null,

@@ -180,7 +180,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 Other amazingly awesome lists can be found in the
 
-* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,752 | 🐛 2 | 📅 2026-08-18 list of open source ios apps
+* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,757 | 🐛 2 | 📅 2026-08-18 list of open source ios apps
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 list.
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,217 | 🐛 12 | 📅 2018-03-08 - A curated list of awesome iOS UI/UX libraries.
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,456 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
