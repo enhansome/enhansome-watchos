@@ -92,6 +92,10 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
   <space><space>\<img src="<https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png>") alt="Example App" width="250"/>
 
+* [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
+
+  <space><space>\<img src="<https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png> ⭐ 503 | 🐛 4 | 🌐 Ruby | 📅 2018-07-05") alt="Example App" width="260"/>
+
 * [Cherry](https://github.com/kenshin03/Cherry) ⭐ 389 | 🐛 2 | 🌐 Swift | 📅 2015-06-11 - A mini pomodoro timer app designed for the  Watch.
 
   <space><space>\<img src="<https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif>") alt="Example App" width="250"/>
@@ -115,10 +119,6 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 * [OnTime](https://github.com/D-32/OnTime) ⭐ 46 | 🐛 6 | 🌐 Objective-C | 📅 2015-10-04 - An apple watch app to access the SBB timetable.
 
   <space><space>\<img src="<https://camo.githubusercontent.com/3d2f8f30ae9ce705cc5467d3736baac2253c6dc2/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7362626170706c65322e6a7067>") alt="Example App" width="500"/>
-
-* [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
-
-  <space><space>\<img src="<https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png> ⭐ 502 | 🐛 4 | 🌐 Ruby | 📅 2018-07-05") alt="Example App" width="260"/>
 
 * [WatchKit Catalog](https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html) - An official sample app demonstrates how to use UI elements available in the WatchKit framework.
 
@@ -180,9 +180,9 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 Other amazingly awesome lists can be found in the
 
-* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,825 | 🐛 2 | 📅 2026-08-23 list of open source ios apps
+* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,827 | 🐛 2 | 📅 2026-08-24 list of open source ios apps
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 list.
-* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,215 | 🐛 12 | 📅 2018-03-08 - A curated list of awesome iOS UI/UX libraries.
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,216 | 🐛 12 | 📅 2018-03-08 - A curated list of awesome iOS UI/UX libraries.
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,456 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
 * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) ⭐ 1,516 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
 * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) ⭐ 769 | 🐛 1 | 📅 2025-06-24 - A list of amazing gists (iOS section).

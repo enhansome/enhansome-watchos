@@ -7,6 +7,108 @@
           "children": [
             {
               "node_type": "item",
+              "title": "MMWormhole",
+              "description": "A powerful toolkit for synthesizing, processing, and analyzing sounds.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27653666,
+                "language": "Objective-C",
+                "last_commit": "2024-02-02T20:45:32Z",
+                "owner": "griddynamics-archive",
+                "repo": "MMWormhole",
+                "stars": 3932
+              }
+            }
+          ],
+          "description": "<img src=\"https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif\" width=\"500\") alt=\"Example App\"/>",
+          "node_type": "group",
+          "title": "Connectivity"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "IGInterfaceDataTable",
+              "description": "A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 31233090,
+                "language": "Objective-C",
+                "last_commit": "2018-01-03T00:14:47Z",
+                "owner": "facebookarchive",
+                "repo": "IGInterfaceDataTable",
+                "stars": 825
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JBWatchActivityIndicator",
+              "description": "An easy way to generate activity indicator images for Apple Watch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35003292,
+                "language": "Objective-C",
+                "last_commit": "2016-05-17T14:09:28Z",
+                "owner": "mikeswanson",
+                "repo": "JBWatchActivityIndicator",
+                "stars": 527
+              }
+            }
+          ],
+          "description": "<img src=\"https://github.com/Instagram/IGInterfaceDataTable/blob/master/images/example.jpg\" width=\"500\") alt=\"Example App\"/>\n<img src=\"https://camo.githubusercontent.com/3bc9d761836a40e088f45285ac52dd5fef89df1b/687474703a2f2f7777772e6d696b657377616e736f6e2e636f6d2f66696c65732f4a4257617463684163746976697479496e64696361746f722f4a4257617463684163746976697479496e64696361746f722e676966\" width=\"300\") alt=\"Example App\"/>",
+          "node_type": "group",
+          "title": "UI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "YOChartImageKit",
+              "description": "A chart image framework for watchOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37304874,
+                "language": "Objective-C",
+                "last_commit": "2019-12-12T01:21:53Z",
+                "owner": "yasuoza",
+                "repo": "YOChartImageKit",
+                "stars": 424
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NKWatchChart",
+              "description": "A chart library for Apple Watch based on PNChart and ios-charts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40393064,
+                "language": "Objective-C",
+                "last_commit": "2016-02-12T23:26:39Z",
+                "owner": "NilStack",
+                "repo": "NKWatchChart",
+                "stars": 254
+              }
+            }
+          ],
+          "description": "<img src=\"https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png\") alt=\"Example App\" width=\"760\"/>\n<img src=\"https://db.tt/UAWEZ1AF\") alt=\"Example App\" width=\"250\"/>",
+          "node_type": "group",
+          "title": "Charts"
+        }
+      ],
+      "title": "Libraries And Frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "RadialChartImageGenerator",
               "description": "A radial bar chart generator for apple watch.",
               "children": [],
@@ -104,6 +206,21 @@
             "owner": "belm",
             "repo": "BaiduFM-Swift",
             "stars": 578
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lister",
+          "description": "An official sample app demonstrates Apple Watch integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40349109,
+            "language": "Ruby",
+            "last_commit": "2018-07-05T22:52:02Z",
+            "owner": "yenchenlin",
+            "repo": "awesome-watchos",
+            "stars": 503
           }
         },
         {
@@ -211,10 +328,10 @@
             "archived": false,
             "id": 29887499,
             "language": null,
-            "last_commit": "2026-08-23T13:27:40Z",
+            "last_commit": "2026-08-24T14:08:43Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51825
+            "stars": 51827
           }
         },
         {
@@ -244,7 +361,7 @@
             "last_commit": "2018-03-08T08:57:40Z",
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11215
+            "stars": 11216
           }
         },
         {
@@ -364,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:04:25.286Z",
+    "last_updated": "2026-08-24T14:22:47.808Z",
     "original_repository": "yenchenlin/awesome-watchos",
     "original_repository_id": 40349109,
     "original_repository_sha": "b5f0ca68d3c78d9ca738e0f1e556a6110eafb5ba",
