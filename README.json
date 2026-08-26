@@ -220,7 +220,7 @@
             "last_commit": "2018-07-05T22:52:02Z",
             "owner": "yenchenlin",
             "repo": "awesome-watchos",
-            "stars": 503
+            "stars": 502
           }
         },
         {
@@ -328,10 +328,10 @@
             "archived": false,
             "id": 29887499,
             "language": null,
-            "last_commit": "2026-08-24T21:05:47Z",
+            "last_commit": "2026-08-25T14:45:53Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51843
+            "stars": 51849
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2018-03-08T08:57:40Z",
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11214
+            "stars": 11215
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2025-10-28T05:58:10Z",
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
-            "stars": 5456
+            "stars": 5458
           }
         },
         {
@@ -391,7 +391,7 @@
             "last_commit": "2025-10-28T06:00:06Z",
             "owner": "v5tech",
             "repo": "awesome-ios-chart",
-            "stars": 1516
+            "stars": 1517
           }
         },
         {
@@ -471,7 +471,7 @@
                 "last_commit": "2026-04-12T14:34:57Z",
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5883
+                "stars": 5882
               }
             }
           ]
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:59:32.577Z",
+    "last_updated": "2026-08-26T09:02:05.131Z",
     "original_repository": "yenchenlin/awesome-watchos",
     "original_repository_id": 40349109,
     "original_repository_sha": "b5f0ca68d3c78d9ca738e0f1e556a6110eafb5ba",
