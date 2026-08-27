@@ -180,10 +180,10 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 Other amazingly awesome lists can be found in the
 
-* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,865 | 🐛 4 | 📅 2026-08-26 list of open source ios apps
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,628 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
+* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,866 | 🐛 5 | 📅 2026-08-27 list of open source ios apps
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,631 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,215 | 🐛 12 | 📅 2018-03-08 - A curated list of awesome iOS UI/UX libraries.
-* [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,458 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
+* [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,459 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
 * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) ⭐ 1,517 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
 * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) ⭐ 769 | 🐛 1 | 📅 2025-06-24 - A list of amazing gists (iOS section).
 * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) ⭐ 495 | 🐛 3 | 📅 2022-08-28 Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
