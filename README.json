@@ -160,7 +160,7 @@
             "last_commit": "2020-10-01T13:21:44Z",
             "owner": "Dimillian",
             "repo": "SwiftHN",
-            "stars": 1740
+            "stars": 1741
           }
         },
         {
@@ -220,7 +220,7 @@
             "last_commit": "2018-07-05T22:52:02Z",
             "owner": "yenchenlin",
             "repo": "awesome-watchos",
-            "stars": 502
+            "stars": 503
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2015-06-11T01:11:44Z",
             "owner": "kenshin03",
             "repo": "Cherry",
-            "stars": 389
+            "stars": 390
           }
         },
         {
@@ -328,10 +328,10 @@
             "archived": false,
             "id": 29887499,
             "language": null,
-            "last_commit": "2026-08-25T14:45:53Z",
+            "last_commit": "2026-08-26T12:19:19Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51849
+            "stars": 51865
           }
         },
         {
@@ -346,7 +346,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33624
+            "stars": 33628
           }
         },
         {
@@ -456,7 +456,7 @@
                 "last_commit": "2026-08-03T13:15:16Z",
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26223
+                "stars": 26226
               }
             },
             {
@@ -471,7 +471,7 @@
                 "last_commit": "2026-04-12T14:34:57Z",
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5882
+                "stars": 5883
               }
             }
           ]
@@ -481,9 +481,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:02:05.131Z",
-    "original_repository": "yenchenlin/awesome-watchos",
-    "original_repository_id": 40349109,
+    "last_updated": "2026-08-27T12:09:54.049Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 40349109,
+      "language": "Ruby",
+      "last_commit": "2018-07-05T22:52:02Z",
+      "owner": "yenchenlin",
+      "repo": "awesome-watchos",
+      "stars": 503
+    },
     "original_repository_sha": "b5f0ca68d3c78d9ca738e0f1e556a6110eafb5ba",
     "enhanced_repository": "enhansome/enhansome-watchos",
     "enhanced_repository_description": null,
