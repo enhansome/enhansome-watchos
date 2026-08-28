@@ -18,7 +18,8 @@
                 "owner": "griddynamics-archive",
                 "repo": "MMWormhole",
                 "stars": 3932
-              }
+              },
+              "first_seen": "2026-08-28T20:12:03.920Z"
             }
           ],
           "description": "<img src=\"https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif\" width=\"500\") alt=\"Example App\"/>",
@@ -40,7 +41,8 @@
                 "owner": "facebookarchive",
                 "repo": "IGInterfaceDataTable",
                 "stars": 825
-              }
+              },
+              "first_seen": "2026-08-28T20:12:03.920Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "mikeswanson",
                 "repo": "JBWatchActivityIndicator",
                 "stars": 527
-              }
+              },
+              "first_seen": "2026-08-28T20:12:03.920Z"
             }
           ],
           "description": "<img src=\"https://github.com/Instagram/IGInterfaceDataTable/blob/master/images/example.jpg\" width=\"500\") alt=\"Example App\"/>\n<img src=\"https://camo.githubusercontent.com/3bc9d761836a40e088f45285ac52dd5fef89df1b/687474703a2f2f7777772e6d696b657377616e736f6e2e636f6d2f66696c65732f4a4257617463684163746976697479496e64696361746f722f4a4257617463684163746976697479496e64696361746f722e676966\" width=\"300\") alt=\"Example App\"/>",
@@ -77,7 +80,8 @@
                 "owner": "yasuoza",
                 "repo": "YOChartImageKit",
                 "stars": 424
-              }
+              },
+              "first_seen": "2026-08-28T20:12:03.920Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "NilStack",
                 "repo": "NKWatchChart",
                 "stars": 254
-              }
+              },
+              "first_seen": "2026-08-28T20:12:03.920Z"
             }
           ],
           "description": "<img src=\"https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png\") alt=\"Example App\" width=\"760\"/>\n<img src=\"https://db.tt/UAWEZ1AF\") alt=\"Example App\" width=\"250\"/>",
@@ -120,7 +125,8 @@
                 "owner": "hmaidasani",
                 "repo": "RadialChartImageGenerator",
                 "stars": 443
-              }
+              },
+              "first_seen": "2026-08-28T20:12:03.920Z"
             },
             {
               "node_type": "item",
@@ -135,7 +141,8 @@
                 "owner": "kiavashfaisali",
                 "repo": "KFWatchKitAnimations",
                 "stars": 348
-              }
+              },
+              "first_seen": "2026-08-28T20:12:03.920Z"
             }
           ],
           "description": null,
@@ -161,7 +168,8 @@
             "owner": "Dimillian",
             "repo": "SwiftHN",
             "stars": 1741
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -176,7 +184,8 @@
             "owner": "kostiakoval",
             "repo": "WatchKit-Apps",
             "stars": 1136
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -191,7 +200,8 @@
             "owner": "shu223",
             "repo": "watchOS-2-Sampler",
             "stars": 1075
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -206,7 +216,8 @@
             "owner": "belm",
             "repo": "BaiduFM-Swift",
             "stars": 578
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -221,7 +232,8 @@
             "owner": "yenchenlin",
             "repo": "awesome-watchos",
             "stars": 503
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -236,7 +248,8 @@
             "owner": "kenshin03",
             "repo": "Cherry",
             "stars": 390
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -251,7 +264,8 @@
             "owner": "genadyo",
             "repo": "WWDC",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -266,7 +280,8 @@
             "owner": "FancyPixel",
             "repo": "done-swift",
             "stars": 149
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -281,7 +296,8 @@
             "owner": "D-32",
             "repo": "WatchPics",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -296,7 +312,8 @@
             "owner": "azamsharp",
             "repo": "WatchNotes",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -311,7 +328,8 @@
             "owner": "D-32",
             "repo": "OnTime",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         }
       ],
       "title": "Sample Apps"
@@ -328,11 +346,12 @@
             "archived": false,
             "id": 29887499,
             "language": null,
-            "last_commit": "2026-08-27T14:18:45Z",
+            "last_commit": "2026-08-28T16:31:53Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51866
-          }
+            "stars": 51878
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -346,8 +365,9 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33631
-          }
+            "stars": 33633
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -361,8 +381,9 @@
             "last_commit": "2018-03-08T08:57:40Z",
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11215
-          }
+            "stars": 11216
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -376,8 +397,9 @@
             "last_commit": "2025-10-28T05:58:10Z",
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
-            "stars": 5459
-          }
+            "stars": 5460
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -392,7 +414,8 @@
             "owner": "v5tech",
             "repo": "awesome-ios-chart",
             "stars": 1517
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -407,7 +430,8 @@
             "owner": "vsouza",
             "repo": "awesome-gists",
             "stars": 769
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -422,7 +446,8 @@
             "owner": "sanketfirodiya",
             "repo": "iOS-learning-resources",
             "stars": 495
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "item",
@@ -437,7 +462,8 @@
             "owner": "sanketfirodiya",
             "repo": "sample-watchkit-apps",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T20:12:03.920Z"
         },
         {
           "node_type": "group",
@@ -456,8 +482,9 @@
                 "last_commit": "2026-08-03T13:15:16Z",
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26226
-              }
+                "stars": 26231
+              },
+              "first_seen": "2026-08-28T20:12:03.920Z"
             },
             {
               "node_type": "item",
@@ -472,7 +499,8 @@
                 "owner": "Wolg",
                 "repo": "awesome-swift",
                 "stars": 5883
-              }
+              },
+              "first_seen": "2026-08-28T20:12:03.920Z"
             }
           ]
         }
@@ -481,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:04:14.067Z",
+    "last_updated": "2026-08-28T20:12:03.920Z",
     "original_repository_info": {
       "archived": false,
       "id": 40349109,
