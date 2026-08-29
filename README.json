@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Message passing between iOS apps and extensions.",
+                "homepage": null,
                 "id": 27653666,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2024-02-02T20:45:32Z",
+                "open_issues": 19,
                 "owner": "griddynamics-archive",
                 "repo": "MMWormhole",
-                "stars": 3932
+                "stars": 3932,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A category on WKInterfaceTable that makes configuring tables with multi-dimensional data easier.",
+                "homepage": null,
                 "id": 31233090,
                 "language": "Objective-C",
+                "license": "NOASSERTION",
                 "last_commit": "2018-01-03T00:14:47Z",
+                "open_issues": 9,
                 "owner": "facebookarchive",
                 "repo": "IGInterfaceDataTable",
-                "stars": 825
+                "stars": 825,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
             },
@@ -51,12 +61,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy way to generate activity indicator images for Apple Watch",
+                "homepage": null,
                 "id": 35003292,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2016-05-17T14:09:28Z",
+                "open_issues": 3,
                 "owner": "mikeswanson",
                 "repo": "JBWatchActivityIndicator",
-                "stars": 527
+                "stars": 527,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
             }
@@ -74,12 +89,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chart image framework for watchOS",
+                "homepage": null,
                 "id": 37304874,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2019-12-12T01:21:53Z",
+                "open_issues": 9,
                 "owner": "yasuoza",
                 "repo": "YOChartImageKit",
-                "stars": 424
+                "stars": 424,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
             },
@@ -90,12 +110,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A chart library for Apple Watch based on PNChart and ios-charts.",
+                "homepage": null,
                 "id": 40393064,
                 "language": "Objective-C",
+                "license": "MIT",
                 "last_commit": "2016-02-12T23:26:39Z",
+                "open_issues": 9,
                 "owner": "NilStack",
                 "repo": "NKWatchChart",
-                "stars": 254
+                "stars": 254,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
             }
@@ -119,12 +144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Radial Bar Chart Generator for Apple Watch -",
+                "homepage": "http://hmaidasani.github.io/RadialChartImageGenerator/",
                 "id": 28942658,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2021-11-01T01:36:11Z",
+                "open_issues": 11,
                 "owner": "hmaidasani",
                 "repo": "RadialChartImageGenerator",
-                "stars": 443
+                "stars": 443,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
             },
@@ -135,12 +165,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "KFWatchKitAnimations creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.",
+                "homepage": "https://www.youtube.com/watch?v=tex2zZXR0M8",
                 "id": 31693155,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-11-12T04:35:55Z",
+                "open_issues": 0,
                 "owner": "kiavashfaisali",
                 "repo": "KFWatchKitAnimations",
-                "stars": 348
+                "stars": 348,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
             }
@@ -162,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Hacker News reader in Swift",
+            "homepage": null,
             "id": 20535693,
             "language": "Swift",
+            "license": "GPL-2.0",
             "last_commit": "2020-10-01T13:21:44Z",
+            "open_issues": 21,
             "owner": "Dimillian",
             "repo": "SwiftHN",
-            "stars": 1741
+            "stars": 1741,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -178,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorials app for WatchKit",
+            "homepage": null,
             "id": 28107518,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2017-01-03T14:56:18Z",
+            "open_issues": 0,
             "owner": "kostiakoval",
             "repo": "WatchKit-Apps",
-            "stars": 1136
+            "stars": 1136,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -194,12 +239,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code examples for new features of watchOS 2.",
+            "homepage": null,
             "id": 37230063,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2021-11-22T10:55:28Z",
+            "open_issues": 5,
             "owner": "shu223",
             "repo": "watchOS-2-Sampler",
-            "stars": 1075
+            "stars": 1075,
+            "topics": [
+              "ios",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -210,12 +263,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Baidu FM  swift ",
+            "homepage": null,
             "id": 34050491,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-11T11:06:17Z",
+            "open_issues": 12,
             "owner": "belm",
             "repo": "BaiduFM-Swift",
-            "stars": 578
+            "stars": 578,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -226,12 +284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
+            "homepage": null,
             "id": 40349109,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2018-07-05T22:52:02Z",
+            "open_issues": 4,
             "owner": "yenchenlin",
             "repo": "awesome-watchos",
-            "stars": 503
+            "stars": 503,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -242,12 +305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mini Pomodoro Timer app designed for the  Watch. Written in Swift.",
+            "homepage": null,
             "id": 31292754,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2015-06-11T01:11:44Z",
+            "open_issues": 2,
             "owner": "kenshin03",
             "repo": "Cherry",
-            "stars": 390
+            "stars": 390,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -258,12 +326,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open sourcing WWDC hit parties app.",
+            "homepage": "https://itunes.apple.com/us/app/parties-for-wwdc/id879924066?mt=8",
             "id": 20570686,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2019-06-04T20:29:21Z",
+            "open_issues": 1,
             "owner": "genadyo",
             "repo": "WWDC",
-            "stars": 384
+            "stars": 384,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -274,12 +347,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample app to demonstrate data sharing between a WatchKit app and its main app using Realm",
+            "homepage": null,
             "id": 33042473,
             "language": "Objective-C",
+            "license": "MIT",
             "last_commit": "2017-04-18T05:10:25Z",
+            "open_issues": 4,
             "owner": "FancyPixel",
             "repo": "done-swift",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -290,12 +368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":sunrise_over_mountains: Instagram for the Apple Watch",
+            "homepage": null,
             "id": 29060243,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2021-01-24T11:09:09Z",
+            "open_issues": 4,
             "owner": "D-32",
             "repo": "WatchPics",
-            "stars": 96
+            "stars": 96,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -306,12 +389,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Notes on your wrist! ",
+            "homepage": null,
             "id": 27108551,
             "language": "Swift",
+            "license": null,
             "last_commit": "2015-10-29T22:22:13Z",
+            "open_issues": 2,
             "owner": "azamsharp",
             "repo": "WatchNotes",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -322,12 +410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bullettrain_side: Apple Watch app to access the SBB timetable",
+            "homepage": null,
             "id": 28695198,
             "language": "Objective-C",
+            "license": "Apache-2.0",
             "last_commit": "2015-10-04T00:02:34Z",
+            "open_issues": 6,
             "owner": "D-32",
             "repo": "OnTime",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         }
@@ -344,12 +437,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":iphone: Collaborative List of Open-Source iOS Apps",
+            "homepage": null,
             "id": 29887499,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T16:31:53Z",
+            "open_issues": 4,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51878
+            "stars": 51884,
+            "topics": [
+              "app",
+              "apple",
+              "apple-tv",
+              "apple-vision-pro",
+              "apple-watch",
+              "awesome",
+              "cocoapods",
+              "example",
+              "flutter",
+              "game",
+              "ios",
+              "ipad",
+              "iphone",
+              "list",
+              "objective-c",
+              "react-native",
+              "swift",
+              "swiftui",
+              "tvos",
+              "watchos"
+            ]
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -360,12 +479,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33633
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -376,12 +500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome iOS UI/UX libraries",
+            "homepage": null,
             "id": 33538019,
             "language": null,
+            "license": null,
             "last_commit": "2018-03-08T08:57:40Z",
+            "open_issues": 12,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11216
+            "stars": 11216,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -392,12 +521,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome iOS animation, including Objective-C and Swift libraries",
+            "homepage": null,
             "id": 35487739,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-28T05:58:10Z",
+            "open_issues": 0,
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
-            "stars": 5460
+            "stars": 5460,
+            "topics": [
+              "animations",
+              "ios-animation",
+              "swift-animation"
+            ]
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -408,12 +546,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome iOS chart libraries, including Objective-C and Swift",
+            "homepage": null,
             "id": 35487373,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-10-28T06:00:06Z",
+            "open_issues": 0,
             "owner": "v5tech",
             "repo": "awesome-ios-chart",
-            "stars": 1517
+            "stars": 1517,
+            "topics": [
+              "chart",
+              "ios-charts",
+              "swift-charts"
+            ]
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -424,12 +571,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of amazing gists",
+            "homepage": null,
             "id": 35503403,
             "language": null,
+            "license": null,
             "last_commit": "2025-06-24T13:38:45Z",
+            "open_issues": 1,
             "owner": "vsouza",
             "repo": "awesome-gists",
-            "stars": 769
+            "stars": 769,
+            "topics": [
+              "awesome",
+              "collection",
+              "gist"
+            ]
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -440,12 +596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of high quality iOS tutorial sites",
+            "homepage": null,
             "id": 34953438,
             "language": null,
+            "license": null,
             "last_commit": "2022-08-28T09:30:47Z",
+            "open_issues": 3,
             "owner": "sanketfirodiya",
             "repo": "iOS-learning-resources",
-            "stars": 495
+            "stars": 495,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -456,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome list of WatchKit sample apps, tutorials and resources",
+            "homepage": null,
             "id": 32753399,
             "language": null,
+            "license": null,
             "last_commit": "2015-08-16T01:05:29Z",
+            "open_issues": 0,
             "owner": "sanketfirodiya",
             "repo": "sample-watchkit-apps",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
         },
@@ -477,12 +643,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
+                "homepage": null,
                 "id": 21696302,
                 "language": "Ruby",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-03T13:15:16Z",
+                "open_issues": 11,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26231
+                "stars": 26232,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "awesome-swift",
+                  "ios",
+                  "linux",
+                  "list",
+                  "lists",
+                  "swift",
+                  "swift-extensions",
+                  "swift-framework",
+                  "swift-language",
+                  "swift-library"
+                ]
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
             },
@@ -493,12 +678,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Swift frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21772062,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-12T14:34:57Z",
+                "open_issues": 111,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5883
+                "stars": 5883,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "objective-c",
+                  "swift",
+                  "swift-framework",
+                  "swift-language",
+                  "swift-library"
+                ]
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
             }
@@ -509,15 +707,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:12:03.920Z",
+    "last_updated": "2026-08-29T04:42:06.481Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
+      "homepage": null,
       "id": 40349109,
       "language": "Ruby",
+      "license": null,
       "last_commit": "2018-07-05T22:52:02Z",
+      "open_issues": 4,
       "owner": "yenchenlin",
       "repo": "awesome-watchos",
-      "stars": 503
+      "stars": 503,
+      "topics": []
     },
     "original_repository_sha": "b5f0ca68d3c78d9ca738e0f1e556a6110eafb5ba",
     "enhanced_repository": "enhansome/enhansome-watchos",
