@@ -31,9 +31,9 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 ### Connectivity
 
-* [MMWormhole](https://github.com/mutualmobile/MMWormhole) ⭐ 3,932 | 🐛 19 | 🌐 Objective-C | 📅 2024-02-02 - A powerful toolkit for synthesizing, processing, and analyzing sounds.
+* [MMWormhole](https://github.com/mutualmobile/MMWormhole) ⭐ 3,933 | 🐛 19 | 🌐 Objective-C | 📅 2024-02-02 - A powerful toolkit for synthesizing, processing, and analyzing sounds.
 
-<space><space>\<img src="<https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif> ⭐ 3,932 | 🐛 19 | 🌐 Objective-C | 📅 2024-02-02" width="500") alt="Example App"/>
+<space><space>\<img src="<https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif> ⭐ 3,933 | 🐛 19 | 🌐 Objective-C | 📅 2024-02-02" width="500") alt="Example App"/>
 
 ### UI
 
@@ -180,7 +180,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 Other amazingly awesome lists can be found in the
 
-* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,912 | 🐛 3 | 📅 2026-08-30 list of open source ios apps
+* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 51,930 | 🐛 2 | 📅 2026-08-31 list of open source ios apps
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,638 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 list.
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,216 | 🐛 12 | 📅 2018-03-08 - A curated list of awesome iOS UI/UX libraries.
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,460 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
@@ -207,4 +207,4 @@ To the extent possible under law, [YenChen Lin](https://github.com/yenchenlin199
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
