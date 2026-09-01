@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "griddynamics-archive",
                 "repo": "MMWormhole",
-                "stars": 3933,
+                "stars": 3932,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
@@ -206,7 +206,7 @@
             "open_issues": 21,
             "owner": "Dimillian",
             "repo": "SwiftHN",
-            "stars": 1741,
+            "stars": 1740,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -272,7 +272,7 @@
             "open_issues": 12,
             "owner": "belm",
             "repo": "BaiduFM-Swift",
-            "stars": 578,
+            "stars": 577,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-08-31T13:09:33Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-01T12:35:57Z",
+            "open_issues": 3,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51930,
+            "stars": 51936,
             "topics": [
               "app",
               "apple",
@@ -509,7 +509,7 @@
             "open_issues": 12,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11216,
+            "stars": 11215,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -530,7 +530,7 @@
             "open_issues": 0,
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
-            "stars": 5460,
+            "stars": 5459,
             "topics": [
               "animations",
               "ios-animation",
@@ -555,7 +555,7 @@
             "open_issues": 0,
             "owner": "v5tech",
             "repo": "awesome-ios-chart",
-            "stars": 1517,
+            "stars": 1516,
             "topics": [
               "chart",
               "ios-charts",
@@ -580,7 +580,7 @@
             "open_issues": 1,
             "owner": "vsouza",
             "repo": "awesome-gists",
-            "stars": 769,
+            "stars": 768,
             "topics": [
               "awesome",
               "collection",
@@ -605,7 +605,7 @@
             "open_issues": 3,
             "owner": "sanketfirodiya",
             "repo": "iOS-learning-resources",
-            "stars": 495,
+            "stars": 494,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -626,7 +626,7 @@
             "open_issues": 0,
             "owner": "sanketfirodiya",
             "repo": "sample-watchkit-apps",
-            "stars": 249,
+            "stars": 248,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -648,11 +648,11 @@
                 "id": 21696302,
                 "language": "Ruby",
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-03T13:15:16Z",
+                "last_commit": "2026-09-01T05:37:47Z",
                 "open_issues": 11,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26235,
+                "stars": 26236,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -687,7 +687,7 @@
                 "open_issues": 111,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5885,
+                "stars": 5884,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:09:24.006Z",
+    "last_updated": "2026-09-01T13:29:45.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
