@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-01T12:35:57Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-02T12:40:57Z",
+            "open_issues": 2,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51936,
+            "stars": 51942,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 62,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33638,
+            "stars": 33643,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -509,7 +509,7 @@
             "open_issues": 12,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11215,
+            "stars": 11214,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -580,7 +580,7 @@
             "open_issues": 1,
             "owner": "vsouza",
             "repo": "awesome-gists",
-            "stars": 768,
+            "stars": 769,
             "topics": [
               "awesome",
               "collection",
@@ -652,7 +652,7 @@
                 "open_issues": 11,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26236,
+                "stars": 26237,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -687,7 +687,7 @@
                 "open_issues": 111,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5884,
+                "stars": 5885,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T13:29:45.097Z",
+    "last_updated": "2026-09-02T12:46:14.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
