@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-09-19T15:33:30Z",
+            "last_commit": "2026-09-21T13:36:49Z",
             "open_issues": 2,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52199,
+            "stars": 52216,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33680,
+            "stars": 33679,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -509,7 +509,7 @@
             "open_issues": 12,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11217,
+            "stars": 11218,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -687,7 +687,7 @@
                 "open_issues": 111,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5892,
+                "stars": 5893,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T13:02:47.835Z",
+    "last_updated": "2026-09-21T15:05:53.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
