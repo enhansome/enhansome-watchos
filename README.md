@@ -180,8 +180,8 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 Other amazingly awesome lists can be found in the
 
-* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 52,416 | 🐛 4 | 📅 2026-10-05 list of open source ios apps
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,701 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
+* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 52,431 | 🐛 3 | 📅 2026-10-06 list of open source ios apps
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,705 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 list.
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,218 | 🐛 14 | 📅 2018-03-08 - A curated list of awesome iOS UI/UX libraries.
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,468 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
 * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) ⭐ 1,515 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
@@ -207,4 +207,4 @@ To the extent possible under law, [YenChen Lin](https://github.com/yenchenlin199
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
