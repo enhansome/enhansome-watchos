@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-14T12:32:24Z",
+            "last_commit": "2026-10-14T18:48:03Z",
             "open_issues": 3,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52587,
+            "stars": 52601,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33723,
+            "stars": 33726,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -506,7 +506,7 @@
             "language": null,
             "license": null,
             "last_commit": "2018-03-08T08:57:40Z",
-            "open_issues": 12,
+            "open_issues": 14,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
             "stars": 11221,
@@ -527,7 +527,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-10-28T05:58:10Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
             "stars": 5467,
@@ -649,7 +649,7 @@
                 "language": "Ruby",
                 "license": "CC0-1.0",
                 "last_commit": "2026-09-01T05:37:47Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
                 "stars": 26318,
@@ -684,7 +684,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-04-12T14:34:57Z",
-                "open_issues": 111,
+                "open_issues": 112,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
                 "stars": 5892,
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:42:49.845Z",
+    "last_updated": "2026-10-15T13:24:59.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
