@@ -293,7 +293,7 @@
             "open_issues": 4,
             "owner": "yenchenlin",
             "repo": "awesome-watchos",
-            "stars": 503,
+            "stars": 504,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-15T21:12:18Z",
+            "last_commit": "2026-10-16T15:19:01Z",
             "open_issues": 5,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52621,
+            "stars": 52635,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33728,
+            "stars": 33727,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -509,7 +509,7 @@
             "open_issues": 14,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11221,
+            "stars": 11220,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -652,7 +652,7 @@
                 "open_issues": 20,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26319,
+                "stars": 26321,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -687,7 +687,7 @@
                 "open_issues": 112,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5892,
+                "stars": 5891,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T13:14:42.271Z",
+    "last_updated": "2026-10-17T12:10:35.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
@@ -719,7 +719,7 @@
       "open_issues": 4,
       "owner": "yenchenlin",
       "repo": "awesome-watchos",
-      "stars": 503,
+      "stars": 504,
       "topics": []
     },
     "original_repository_sha": "b5f0ca68d3c78d9ca738e0f1e556a6110eafb5ba",
