@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-20T12:54:12Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-20T17:39:03Z",
+            "open_issues": 8,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52700,
+            "stars": 52722,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33734,
+            "stars": 33738,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -509,7 +509,7 @@
             "open_issues": 14,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11220,
+            "stars": 11221,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -652,7 +652,7 @@
                 "open_issues": 21,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26333,
+                "stars": 26334,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -684,10 +684,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-04-12T14:34:57Z",
-                "open_issues": 112,
+                "open_issues": 113,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
-                "stars": 5891,
+                "stars": 5892,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T13:32:53.370Z",
+    "last_updated": "2026-10-21T13:47:00.226Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
