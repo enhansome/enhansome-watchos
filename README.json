@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-26T14:05:24Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-27T14:28:23Z",
+            "open_issues": 2,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52837,
+            "stars": 52857,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 64,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33748,
+            "stars": 33750,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -506,10 +506,10 @@
             "language": null,
             "license": null,
             "last_commit": "2018-03-08T08:57:40Z",
-            "open_issues": 14,
+            "open_issues": 13,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
-            "stars": 11223,
+            "stars": 11224,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -530,7 +530,7 @@
             "open_issues": 1,
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
-            "stars": 5469,
+            "stars": 5470,
             "topics": [
               "animations",
               "ios-animation",
@@ -652,7 +652,7 @@
                 "open_issues": 4,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26351,
+                "stars": 26352,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -684,7 +684,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-04-12T14:34:57Z",
-                "open_issues": 113,
+                "open_issues": 114,
                 "owner": "Wolg",
                 "repo": "awesome-swift",
                 "stars": 5897,
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T15:10:49.393Z",
+    "last_updated": "2026-10-27T14:30:26.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
