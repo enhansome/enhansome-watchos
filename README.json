@@ -227,7 +227,7 @@
             "open_issues": 0,
             "owner": "kostiakoval",
             "repo": "WatchKit-Apps",
-            "stars": 1137,
+            "stars": 1136,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-10-29T14:34:19Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-30T12:24:59Z",
+            "open_issues": 4,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 52892,
+            "stars": 52908,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33759,
+            "stars": 33757,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -530,7 +530,7 @@
             "open_issues": 1,
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
-            "stars": 5470,
+            "stars": 5471,
             "topics": [
               "animations",
               "ios-animation",
@@ -652,7 +652,7 @@
                 "open_issues": 13,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26354,
+                "stars": 26352,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:12:55.765Z",
+    "last_updated": "2026-10-30T15:01:56.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
