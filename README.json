@@ -377,7 +377,7 @@
             "open_issues": 4,
             "owner": "D-32",
             "repo": "WatchPics",
-            "stars": 96,
+            "stars": 97,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -419,7 +419,7 @@
             "open_issues": 6,
             "owner": "D-32",
             "repo": "OnTime",
-            "stars": 46,
+            "stars": 47,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-13T15:14:01Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-14T13:37:41Z",
+            "open_issues": 2,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 53236,
+            "stars": 53260,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 66,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33785,
+            "stars": 33787,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -652,7 +652,7 @@
                 "open_issues": 24,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26372,
+                "stars": 26374,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:21:10.224Z",
+    "last_updated": "2026-11-14T15:03:21.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",

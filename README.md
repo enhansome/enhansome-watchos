@@ -108,7 +108,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
   <space><space>\<img src="<https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif>") alt="Example App" width="400"/>
 
-* [WatchPics](https://github.com/D-32/WatchPics) ⭐ 96 | 🐛 4 | 🌐 Objective-C | 📅 2021-01-24 - Instagram for the Apple Watch.
+* [WatchPics](https://github.com/D-32/WatchPics) ⭐ 97 | 🐛 4 | 🌐 Objective-C | 📅 2021-01-24 - Instagram for the Apple Watch.
 
   <space><space>\<img src="<https://camo.githubusercontent.com/544c66f439b1328155ca4463c2fa73e514f80800/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7761746368706963732e6a7067>") alt="Example App" width="500"/>
 
@@ -116,7 +116,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
   <space><space>\<img src="<https://camo.githubusercontent.com/689a09260a6427ede9580b298c141320132796df/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32303131363433342f57617463684e6f7465732e676966>") alt="Example App" width="500"/>
 
-* [OnTime](https://github.com/D-32/OnTime) ⭐ 46 | 🐛 6 | 🌐 Objective-C | 📅 2015-10-04 - An apple watch app to access the SBB timetable.
+* [OnTime](https://github.com/D-32/OnTime) ⭐ 47 | 🐛 6 | 🌐 Objective-C | 📅 2015-10-04 - An apple watch app to access the SBB timetable.
 
   <space><space>\<img src="<https://camo.githubusercontent.com/3d2f8f30ae9ce705cc5467d3736baac2253c6dc2/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7362626170706c65322e6a7067>") alt="Example App" width="500"/>
 
@@ -180,8 +180,8 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 Other amazingly awesome lists can be found in the
 
-* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 53,236 | 🐛 3 | 📅 2026-11-13 list of open source ios apps
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,785 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 list.
+* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 53,260 | 🐛 2 | 📅 2026-11-14 list of open source ios apps
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,787 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 list.
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,228 | 🐛 13 | 📅 2018-03-08 - A curated list of awesome iOS UI/UX libraries.
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,476 | 🐛 1 | 📅 2025-10-28 - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
 * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) ⭐ 1,515 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
@@ -189,7 +189,7 @@ Other amazingly awesome lists can be found in the
 * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) ⭐ 495 | 🐛 3 | 📅 2022-08-28 Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
 * [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) ⭐ 248 | 🐛 0 | 📅 2015-08-16 curated list of sample watchkit apps and tutorials.
 * Awesome-swift
-  * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) ⭐ 26,372 | 🐛 24 | 🌐 Ruby | 📅 2026-11-11 - A collaborative list of awesome swift resources.
+  * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) ⭐ 26,374 | 🐛 24 | 🌐 Ruby | 📅 2026-11-11 - A collaborative list of awesome swift resources.
   * [@Wolg](https://github.com/Wolg/awesome-swift) ⭐ 5,903 | 🐛 119 | 📅 2026-04-12 - A curated list of awesome Swift frameworks, libraries and software.
 * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
@@ -207,4 +207,4 @@ To the extent possible under law, [YenChen Lin](https://github.com/yenchenlin199
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
