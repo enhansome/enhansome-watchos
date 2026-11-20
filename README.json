@@ -248,7 +248,7 @@
             "open_issues": 5,
             "owner": "shu223",
             "repo": "watchOS-2-Sampler",
-            "stars": 1073,
+            "stars": 1072,
             "topics": [
               "ios",
               "watchos"
@@ -335,7 +335,7 @@
             "open_issues": 1,
             "owner": "genadyo",
             "repo": "WWDC",
-            "stars": 384,
+            "stars": 383,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-19T12:55:23Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-20T14:40:13Z",
+            "open_issues": 6,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 53360,
+            "stars": 53384,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33798,
+            "stars": 33801,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -530,7 +530,7 @@
             "open_issues": 1,
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
-            "stars": 5476,
+            "stars": 5478,
             "topics": [
               "animations",
               "ios-animation",
@@ -652,7 +652,7 @@
                 "open_issues": 26,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26390,
+                "stars": 26393,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T17:22:04.054Z",
+    "last_updated": "2026-11-20T16:57:10.520Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",

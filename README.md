@@ -86,7 +86,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 * [WatchKit-Apps](https://github.com/kostiakoval/WatchKit-Apps) ⭐ 1,135 | 🐛 0 | 🌐 Swift | 📅 2017-01-03 - Tutorials app for WatchKit.
 
-* [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) ⭐ 1,073 | 🐛 5 | 🌐 Swift | 📅 2021-11-22 - Code examples for new features of watchOS 2.
+* [watchOS-2-Sampler](https://github.com/shu223/watchOS-2-Sampler) ⭐ 1,072 | 🐛 5 | 🌐 Swift | 📅 2021-11-22 - Code examples for new features of watchOS 2.
 
 * [BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift) ⭐ 579 | 🐛 12 | 🌐 Swift | 📅 2026-08-11 - A apple watch app for BaiduFM.
 
@@ -100,7 +100,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
   <space><space>\<img src="<https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif>") alt="Example App" width="250"/>
 
-* [WWDC](https://github.com/sugarso/WWDC) ⭐ 384 | 🐛 1 | 🌐 Swift | 📅 2019-06-04 - An open sourcing WWDC hit parties app.
+* [WWDC](https://github.com/sugarso/WWDC) ⭐ 383 | 🐛 1 | 🌐 Swift | 📅 2019-06-04 - An open sourcing WWDC hit parties app.
 
   <space><space>\<img src="<https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png>") alt="Example App" width="230"/>
 
@@ -180,16 +180,16 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 Other amazingly awesome lists can be found in the
 
-* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 53,360 | 🐛 3 | 📅 2026-11-19 list of open source ios apps
-* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,798 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02 list.
+* [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 53,384 | 🐛 6 | 📅 2026-11-20 list of open source ios apps
+* [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,801 | 🐛 67 | 🌐 Ruby | 📅 2024-06-02 list.
 * [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) ⭐ 11,231 | 🐛 13 | 📅 2018-03-08 - A curated list of awesome iOS UI/UX libraries.
-* [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,476 | 🐛 1 | 📅 2025-10-28 - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
+* [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) ⭐ 5,478 | 🐛 1 | 📅 2025-10-28 - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
 * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) ⭐ 1,515 | 🐛 0 | 📅 2025-10-28 - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
 * [awesome-gists](https://github.com/vsouza/awesome-gists#ios) ⭐ 771 | 🐛 1 | 📅 2025-06-24 - A list of amazing gists (iOS section).
 * [iOS Learning Resources](https://github.com/sanketfirodiya/iOS-learning-resources) ⭐ 495 | 🐛 3 | 📅 2022-08-28 Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
 * [awesome watchkit apps](https://github.com/sanketfirodiya/sample-watchkit-apps) ⭐ 248 | 🐛 0 | 📅 2015-08-16 curated list of sample watchkit apps and tutorials.
 * Awesome-swift
-  * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) ⭐ 26,390 | 🐛 26 | 🌐 Ruby | 📅 2026-11-11 - A collaborative list of awesome swift resources.
+  * [@matteocrippa](https://github.com/matteocrippa/awesome-swift) ⭐ 26,393 | 🐛 26 | 🌐 Ruby | 📅 2026-11-11 - A collaborative list of awesome swift resources.
   * [@Wolg](https://github.com/Wolg/awesome-swift) ⭐ 5,907 | 🐛 119 | 📅 2026-04-12 - A curated list of awesome Swift frameworks, libraries and software.
 * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
@@ -207,4 +207,4 @@ To the extent possible under law, [YenChen Lin](https://github.com/yenchenlin199
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
