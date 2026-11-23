@@ -272,7 +272,7 @@
             "open_issues": 12,
             "owner": "belm",
             "repo": "BaiduFM-Swift",
-            "stars": 579,
+            "stars": 578,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -290,7 +290,7 @@
             "language": "Ruby",
             "license": null,
             "last_commit": "2018-07-05T22:52:02Z",
-            "open_issues": 6,
+            "open_issues": 4,
             "owner": "yenchenlin",
             "repo": "awesome-watchos",
             "stars": 507,
@@ -314,7 +314,7 @@
             "open_issues": 2,
             "owner": "kenshin03",
             "repo": "Cherry",
-            "stars": 388,
+            "stars": 389,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-22T13:56:31Z",
+            "last_commit": "2026-11-23T14:02:33Z",
             "open_issues": 5,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 53424,
+            "stars": 53449,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33809,
+            "stars": 33810,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -506,7 +506,7 @@
             "language": null,
             "license": null,
             "last_commit": "2018-03-08T08:57:40Z",
-            "open_issues": 13,
+            "open_issues": 11,
             "owner": "cjwirth",
             "repo": "awesome-ios-ui",
             "stars": 11231,
@@ -527,7 +527,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-10-28T05:58:10Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "v5tech",
             "repo": "awesome-ios-animation",
             "stars": 5478,
@@ -649,10 +649,10 @@
                 "language": "Ruby",
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-11T14:39:24Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26396,
+                "stars": 26400,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T16:15:34.329Z",
+    "last_updated": "2026-11-23T20:12:07.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
@@ -716,7 +716,7 @@
       "language": "Ruby",
       "license": null,
       "last_commit": "2018-07-05T22:52:02Z",
-      "open_issues": 6,
+      "open_issues": 4,
       "owner": "yenchenlin",
       "repo": "awesome-watchos",
       "stars": 507,
