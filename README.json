@@ -21,7 +21,7 @@
                 "open_issues": 19,
                 "owner": "griddynamics-archive",
                 "repo": "MMWormhole",
-                "stars": 3921,
+                "stars": 3920,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:12:03.920Z"
@@ -442,11 +442,11 @@
             "id": 29887499,
             "language": null,
             "license": "CC0-1.0",
-            "last_commit": "2026-11-27T16:30:45Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-28T12:47:14Z",
+            "open_issues": 6,
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 53508,
+            "stars": 53524,
             "topics": [
               "app",
               "apple",
@@ -488,7 +488,7 @@
             "open_issues": 67,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33812,
+            "stars": 33811,
             "topics": []
           },
           "first_seen": "2026-08-28T20:12:03.920Z"
@@ -652,7 +652,7 @@
                 "open_issues": 27,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26406,
+                "stars": 26407,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T18:10:35.388Z",
+    "last_updated": "2026-11-28T16:52:13.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome watchOS frameworks, libraries, sample apps.",
